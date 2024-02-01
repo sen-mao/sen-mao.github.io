@@ -17,13 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student in Nankai University from August 2022, supervised by Prof. Yaxing Wang. I obtained my master’s degree in Computer Technology from the College of Computer Science, Nankai University.
+I am currently a Ph.D student in Nankai University from August 2022, supervised by Prof. <a href='https://scholar.google.com/citations?hl=en&user=6CsB8k0AAAAJ'>Yaxing Wang</a>. I obtained my master’s degree in Computer Technology from the College of Computer Science, Nankai University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include **Generative Models**, **Image Generation**, and **Image-to-image Translation**. 
+
+I’m currently conducting some research in image editing and efficient inference, including:
+🎨 Image editing based on Generative Models (GANs and Diffusion Models).
+🚀 The acceleration of inferecne by training-free or data-free distillation.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🎉🎉 Our new work, FasterDiffusion: Rethinking the Role of UNet Encoder in Diffusion Models. See our paper and code.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
