@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Hi, there 👋
+
 I am currently a Ph.D student in Nankai University from August 2022, supervised by Prof. <a href='https://scholar.google.com/citations?hl=en&user=6CsB8k0AAAAJ'>Yaxing Wang</a>. I obtained my master’s degree in Computer Technology from the College of Computer Science, Nankai University.
 
 My research interests include **Generative Models**, **Image Generation**, and **Image-to-image Translation**. 
