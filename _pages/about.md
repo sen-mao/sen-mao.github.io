@@ -22,12 +22,14 @@ I am currently a Ph.D student in Nankai University from August 2022, supervised 
 My research interests include **Generative Models**, **Image Generation**, and **Image-to-image Translation**. 
 
 I’m currently conducting some research in image editing and efficient inference, including:
+
 🎨 Image editing based on Generative Models (GANs and Diffusion Models).
+
 🚀 The acceleration of inferecne by training-free or data-free distillation.
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 Our new work, FasterDiffusion: Rethinking the Role of UNet Encoder in Diffusion Models. See our paper and code.
+- *2023.12*: &nbsp;🎉🎉 Our new work, FasterDiffusion: Rethinking the Role of UNet Encoder in Diffusion Models. See our <a href='https://arxiv.org/abs/2312.09608'>paper</a> and <a href='https://github.com/hutaiHang/Faster-Diffusion'>code<\a>.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
