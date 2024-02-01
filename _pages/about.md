@@ -28,9 +28,12 @@ I’m currently conducting some research in image editing and efficient inferenc
 🚀 The acceleration of inferecne by training-free or data-free distillation.
 
 
+
+
+
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 Our new work, FasterDiffusion: Rethinking the Role of UNet Encoder in Diffusion Models. See our <a href='https://arxiv.org/abs/2312.09608'>paper</a> and <a href='https://github.com/hutaiHang/Faster-Diffusion'>code<\a>.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🎉🎉 Our new work, FasterDiffusion: Rethinking the Role of UNet Encoder in Diffusion Models. See our <a href='https://arxiv.org/abs/2312.09608'>paper</a> and <a href='https://github.com/hutaiHang/Faster-Diffusion'>code</a>.
+- *2023.02*: &nbsp;🎉🎉 Our paper '3D-Aware Multi-Class Image-to-Image Translation with NeRFs' accepted by CVPR'23. See our <a href='https://arxiv.org/abs/2303.15012'>paper</a> and <a href='https://github.com/sen-mao/3di2i-translation'>code</a>.
 
 # 📝 Publications 
 
