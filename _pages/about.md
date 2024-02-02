@@ -131,7 +131,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
   <li>
     <img src='https://img.shields.io/github/stars/sen-mao/StyleDiffusion' alt="sym" height="100%">
-    <a href="https://arxiv.org/abs/2312.09608"> tyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing </a>. <strong>Senmao Li</strong>, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang. <strong>arXiv</strong>. 
+    <a href="https://arxiv.org/abs/2312.09608"> StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing </a>. <strong>Senmao Li</strong>, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang. <strong>arXiv</strong>. 
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2303.15649"> [paper]</a>
         <a href="https://github.com/sen-mao/StyleDiffusion"> [code]</a>
