@@ -41,7 +41,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/papers/3DI2I.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/3DI2I.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D-Aware Multi-Class Image-to-Image Translation with NeRFs](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_3D-Aware_Multi-Class_Image-to-Image_Translation_With_NeRFs_CVPR_2023_paper.pdf)
@@ -52,6 +52,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 - Decouple 3D-aware I2I translation into two steps
 </div>
 </div>
+
 
 <ul>
   <li>
