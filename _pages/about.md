@@ -41,6 +41,30 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 # 📝 Publications 
 
+[//]: # (FasterDiffusion)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/StyleDiffusion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models](https://arxiv.org/abs/2312.09608)
+
+**Senmao Li**, Taihang Hu, Fahad Khan, Linxuan Li, Shiqi Yang, Yaxing Wang, Ming-Ming Cheng, Jian Yang
+
+- a thorough empirical study of the features of the UNet in the diffusion model showing that encoder features vary minimally (whereas decoder feature vary significantly)
+- an encoder propagation scheme to accelerate the diffusion sampling without requiring any training or fine-tuning technique
+- Our method can be combined with existing methods (like DDIM, and DPM-solver) to further accelerate diffusion model inference time
+- ~1.8x acceleration for stable diffusion, 50 DDIM steps, ~1.8x acceleration for stable diffusion, 20 Dpm-solver++ steps, and ~1.3x acceleration for DeepFloyd-IF
+
+<div style="display: inline">
+        <a href="https://arxiv.org/abs/2312.09608"> [paper]</a>
+        <a href="https://github.com/hutaiHang/Faster-Diffusion"> [code]</a>
+        <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
+        <div class="abstract"  style="overflow: hidden; display: none;">  
+            <p> One of the key components within diffusion models is the UNet for noise prediction. While several works have explored basic properties of the UNet decoder, its encoder largely remains unexplored. In this work, we conduct the first comprehensive study of the UNet encoder. We empirically analyze the encoder features and provide insights to important questions regarding their changes at the inference process. In particular, we find that encoder features change gently, whereas the decoder features exhibit substantial variations across different time-steps. This finding inspired us to omit the encoder at certain adjacent time-steps and reuse cyclically the encoder features in the previous time-steps for the decoder. Further based on this observation, we introduce a simple yet effective encoder propagation scheme to accelerate the diffusion sampling for a diverse set of tasks. By benefiting from our propagation scheme, we are able to perform in parallel the decoder at certain adjacent time-steps. Additionally, we introduce a prior noise injection method to improve the texture details in the generated image. Besides the standard text-to-image task, we also validate our approach on other tasks: text-to-video, personalized generation and reference-guided generation. Without utilizing any knowledge distillation technique, our approach accelerates both the Stable Diffusion (SD) and the DeepFloyd-IF models sampling by 41% and 24% respectively, while maintaining high-quality generation performance. </p>
+        </div>
+</div>
+
+</div>
+</div>
 
 [//]: # (StyleDiffusion)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/StyleDiffusion.jpg' alt="sym" width="100%"></div></div>
