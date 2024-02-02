@@ -42,7 +42,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 # 📝 Publications 
 
 [//]: # (FasterDiffusion)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/StyleDiffusion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/FasterDiffusion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models](https://arxiv.org/abs/2312.09608)
