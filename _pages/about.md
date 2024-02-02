@@ -51,10 +51,10 @@ I’m currently conducting some research in image editing and efficient inferenc
 **Senmao Li**, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang
 
 - Only optimizing the input of the value linear network in the cross-attention layers is sufficiently powerful to reconstruct a real image
-- attention regularization to preserve the object-like attention maps after reconstruction and editing, enabling us to obtain accurate style editing without invoking significant structural changes
+- Attention regularization to preserve the object-like attention maps after reconstruction and editing, enabling us to obtain accurate style editing without invoking significant structural changes
 
 <div style="display: inline">
-        <a href="hhttps://arxiv.org/abs/2303.15649"> [paper]</a>
+        <a href="https://arxiv.org/abs/2303.15649"> [paper]</a>
         <a href="https://github.com/sen-mao/StyleDiffusion?tab=readme-ov-file"> [code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
