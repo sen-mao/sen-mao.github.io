@@ -91,8 +91,6 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 
 <ul>
-
-[//]: # (  FasterDiffusion )
   <li>
     <img src='https://img.shields.io/github/stars/hutaiHang/Faster-Diffusion' alt="sym" height="100%">
     <a href="https://arxiv.org/abs/2312.09608"> Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models </a>. <strong>Senmao Li</strong>, Taihang Hu, Fahad Khan, Linxuan Li, Shiqi Yang, Yaxing Wang, Ming-Ming Cheng, Jian Yang. <strong>arXiv</strong>. 
@@ -106,7 +104,7 @@ I’m currently conducting some research in image editing and efficient inferenc
     </div>
   </li>
 
-[//]: # (StyleDiffusion)
+
   <li>
     <img src='https://img.shields.io/github/stars/sen-mao/StyleDiffusion' alt="sym" height="100%">
     <a href="https://arxiv.org/abs/2312.09608"> tyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing </a>. <strong>Senmao Li</strong>, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang. <strong>arXiv</strong>. 
@@ -120,7 +118,7 @@ I’m currently conducting some research in image editing and efficient inferenc
     </div>
   </li>
 
-[//]: # (3DI2I)
+
   <li>
     <img src='https://img.shields.io/github/stars/sen-mao/3di2i-translation' alt="sym" height="100%">
     <a href="https://arxiv.org/abs/2303.15012"> 3D-Aware Multi-Class Image-to-Image Translation with NeRFs </a>. <strong>Senmao Li</strong>, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jian Yang. <strong>CVPR 2023</strong>. 
