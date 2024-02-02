@@ -41,22 +41,22 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/papers/3DI2I.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[3D-Aware Multi-Class Image-to-Image Translation with NeRFs](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_3D-Aware_Multi-Class_Image-to-Image_Translation_With_NeRFs_CVPR_2023_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Senmao Li**, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jian Yang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- The first to explore 3D-aware multi-class I2I translation
+- Decouple 3D-aware I2I translation into two steps
 </div>
 </div>
 
 <ul>
   <li>
-    <img src='hhttps://github.com/sen-mao/3di2i-translation.svg?style=social&label=Star' alt="sym" height="100%">
-    <a href="https://arxiv.org/abs/2303.15012"> 3D-Aware Multi-Class Image-to-Image Translation with NeRFs</a>. <strong>Senmao Li</strong>, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jian Yang. <strong>CVPR 2023</strong>. 
+    <img src='https://github.com/sen-mao/3di2i-translation.svg?style=social&label=Star' alt="sym" height="100%">
+    <a href="https://arxiv.org/abs/2303.15012"> 3D-Aware Multi-Class Image-to-Image Translation with NeRFs </a>. <strong>Senmao Li</strong>, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jian Yang. <strong>CVPR 2023</strong>. 
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2303.15012"> [paper]</a>
         <a href="https://github.com/sen-mao/3di2i-translation"> [code]</a>
