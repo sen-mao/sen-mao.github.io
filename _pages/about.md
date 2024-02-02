@@ -55,7 +55,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 <ul>
   <li>
-    <img src='https://github.com/sen-mao/3di2i-translation.svg?style=social&label=Star' alt="sym" height="100%">
+    <img src='https://img.shields.io/github/stars/sen-mao/3di2i-translation' alt="sym" height="100%">
     <a href="https://arxiv.org/abs/2303.15012"> 3D-Aware Multi-Class Image-to-Image Translation with NeRFs </a>. <strong>Senmao Li</strong>, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jian Yang. <strong>CVPR 2023</strong>. 
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2303.15012"> [paper]</a>
