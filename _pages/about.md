@@ -55,7 +55,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 <div style="display: inline">
         <a href="https://arxiv.org/abs/2303.15649"> [paper]</a>
-        <a href="https://github.com/sen-mao/StyleDiffusion?tab=readme-ov-file"> [code]</a>
+        <a href="https://github.com/sen-mao/StyleDiffusion"> [code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
             <p> A significant research effort is focused on exploiting the amazing capacities of pretrained diffusion models for the editing of images. They either finetune the model, or invert the image in the latent space of the pretrained model. However, they suffer from two problems: (1) Unsatisfying results for selected regions, and unexpected changes in nonselected regions. (2) They require careful text prompt editing where the prompt should include all visual objects in the input image. To address this, we propose two improvements: (1) Only optimizing the input of the value linear network in the cross-attention layers, is sufficiently powerful to reconstruct a real image. (2) We propose attention regularization to preserve the object-like attention maps after editing, enabling us to obtain accurate style editing without invoking significant structural changes. We further improve the editing technique which is used for the unconditional branch of classifier-free guidance, as well as the conditional one as used by P2P. Extensive experimental prompt-editing results on a variety of images, demonstrate qualitatively and quantitatively that our method has superior editing capabilities than existing and concurrent works.</p>
@@ -103,6 +103,21 @@ I’m currently conducting some research in image editing and efficient inferenc
         </div>
     </div>
   </li>
+
+
+  <li>
+    <img src='https://img.shields.io/github/stars/sen-mao/StyleDiffusion' alt="sym" height="100%">
+    <a href="https://arxiv.org/abs/2312.09608"> tyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing </a>. <strong>Senmao Li</strong>, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang. <strong>arXiv</strong>. 
+    <div style="display: inline">
+        <a href="https://arxiv.org/abs/2303.15649"> [paper]</a>
+        <a href="https://github.com/sen-mao/StyleDiffusion"> [code]</a>
+        <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
+        <div class="abstract"  style="overflow: hidden; display: none;">  
+            <p> A significant research effort is focused on exploiting the amazing capacities of pretrained diffusion models for the editing of images. They either finetune the model, or invert the image in the latent space of the pretrained model. However, they suffer from two problems: (1) Unsatisfying results for selected regions, and unexpected changes in nonselected regions. (2) They require careful text prompt editing where the prompt should include all visual objects in the input image. To address this, we propose two improvements: (1) Only optimizing the input of the value linear network in the cross-attention layers, is sufficiently powerful to reconstruct a real image. (2) We propose attention regularization to preserve the object-like attention maps after editing, enabling us to obtain accurate style editing without invoking significant structural changes. We further improve the editing technique which is used for the unconditional branch of classifier-free guidance, as well as the conditional one as used by P2P. Extensive experimental prompt-editing results on a variety of images, demonstrate qualitatively and quantitatively that our method has superior editing capabilities than existing and concurrent works.</p>
+        </div>
+    </div>
+  </li>
+
 
   <li>
     <img src='https://img.shields.io/github/stars/sen-mao/3di2i-translation' alt="sym" height="100%">
