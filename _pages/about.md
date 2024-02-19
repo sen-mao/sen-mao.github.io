@@ -42,6 +42,30 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 # 📝 Publications 
 
+[//]: # (SuppressEOT)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/SuppressEOT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Model](https://arxiv.org/pdf/2402.05375.pdf)
+
+**Senmao Li**, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang
+
+- Our analysis shows that the [EOT] embeddings contain significant, redundant and duplicated semantic information of the whole input prompt (the whole embeddings)
+- We propose soft-weighted regularization (SWR) to eliminate the negative target information from the [EOT] embeddings.
+- To further suppress the negative target generation, and encourage the positive target content, we propose inference-time text embedding optimization (ITO).
+
+<div style="display: inline">
+        <a href="https://arxiv.org/abs/2402.05375"> [paper]</a>
+        <a href="https://github.com/sen-mao/SuppressEOT"> [code]</a>
+        <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
+        <div class="abstract"  style="overflow: hidden; display: none;">  
+            <p> The success of recent text-to-image diffusion models is largely due to their capacity to be guided by a complex text prompt, which enables users to precisely describe the desired content. However, these models struggle to effectively suppress the generation of undesired content, which is explicitly requested to be omitted from the generated image in the prompt. In this paper, we analyze how to manipulate the text embeddings and remove unwanted content from them. We introduce two approaches, which we refer to as **soft-weighted regularization** and **inference-time text embedding optimization**. The first regularizes the text embedding matrix and effectively suppresses the undesired content. The second method aims to further suppress the unwanted content generation of the prompt, and encourages the generation of desired content. We evaluate our method quantitatively and qualitatively on extensive experiments, validating its effectiveness. Furthermore, our method is generalizability to both the pixel-space diffusion models (i.e. DeepFloyd-IF) and the latent-space diffusion models (i.e. Stable Diffusion).</p>
+        </div>
+</div>
+
+</div>
+</div>
+
 [//]: # (FasterDiffusion)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/FasterDiffusion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
