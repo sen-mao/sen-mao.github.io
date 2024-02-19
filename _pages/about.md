@@ -43,7 +43,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 # 📝 Publications 
 
 [//]: # (SuppressEOT)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/SuppressEOT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/papers/SuppressEOT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Model](https://arxiv.org/pdf/2402.05375.pdf)
