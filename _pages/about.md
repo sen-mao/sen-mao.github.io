@@ -117,6 +117,19 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 <ul>
   <li>
+    <img src='https://img.shields.io/github/stars/sen-mao/SuppressEOT' alt="sym" height="100%">
+    <a href="https://arxiv.org/abs/2402.05375"> Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models </a>. <strong>Senmao Li</strong>, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang. <strong>ICLR 2024</strong>. 
+    <div style="display: inline">
+        <a href="https://arxiv.org/abs/2402.05375"> [paper]</a>
+        <a href="https://github.com/sen-mao/SuppressEOT"> [code]</a>
+        <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
+        <div class="abstract"  style="overflow: hidden; display: none;">  
+            <p> The success of recent text-to-image diffusion models is largely due to their capacity to be guided by a complex text prompt, which enables users to precisely describe the desired content. However, these models struggle to effectively suppress the generation of undesired content, which is explicitly requested to be omitted from the generated image in the prompt. In this paper, we analyze how to manipulate the text embeddings and remove unwanted content from them. We introduce two approaches, which we refer to as **soft-weighted regularization** and **inference-time text embedding optimization**. The first regularizes the text embedding matrix and effectively suppresses the undesired content. The second method aims to further suppress the unwanted content generation of the prompt, and encourages the generation of desired content. We evaluate our method quantitatively and qualitatively on extensive experiments, validating its effectiveness. Furthermore, our method is generalizability to both the pixel-space diffusion models (i.e. DeepFloyd-IF) and the latent-space diffusion models (i.e. Stable Diffusion).</p>
+        </div>
+    </div>
+  </li>
+
+  <li>
     <img src='https://img.shields.io/github/stars/hutaiHang/Faster-Diffusion' alt="sym" height="100%">
     <a href="https://arxiv.org/abs/2312.09608"> Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models </a>. <strong>Senmao Li</strong>, Taihang Hu, Fahad Khan, Linxuan Li, Shiqi Yang, Yaxing Wang, Ming-Ming Cheng, Jian Yang. <strong>arXiv</strong>. 
     <div style="display: inline">
