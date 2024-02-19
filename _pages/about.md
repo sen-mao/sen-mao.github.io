@@ -34,10 +34,10 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🥳🥳 Our paper 'Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models' accepted by ICLR'24. See our <a href='https://arxiv.org/abs/2402.05375'>paper</a> and <a href='https://github.com/sen-mao/SuppressEOT'>code</a>.
+- *2024.01*: &nbsp;🥳🥳 Our paper "Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models" accepted by ICLR'24. See our <a href='https://arxiv.org/abs/2402.05375'>paper</a> and <a href='https://github.com/sen-mao/SuppressEOT'>code</a>.
 - *2023.12*: &nbsp;🎉🎉 Our new work, FasterDiffusion: Rethinking the Role of UNet Encoder in Diffusion Models. See our <a href='https://arxiv.org/abs/2312.09608'>paper</a> and <a href='https://github.com/hutaiHang/Faster-Diffusion'>code</a>.
-- *2023.02*: &nbsp;🥳🥳 Our paper '3D-Aware Multi-Class Image-to-Image Translation with NeRFs' accepted by CVPR'23. See our <a href='https://arxiv.org/abs/2303.15012'>paper</a> and <a href='https://github.com/sen-mao/3di2i-translation'>code</a>.
-- *2020.12*: &nbsp;🥳🥳 Our paper 'Low-rank Constrained Super-Resolution for Mixed-Resolution Multiview Video' accepted by TIP'20. See our <a href='https://ieeexplore.ieee.org/abstract/document/9286862'>paper</a> and <a href='https://drive.google.com/file/d/1spFEH6H1jMWZB2vqhU-PQ8ruhJ-VOHf-/view?usp=sharing'>code</a>.
+- *2023.02*: &nbsp;🥳🥳 Our paper "3D-Aware Multi-Class Image-to-Image Translation with NeRFs" accepted by CVPR'23. See our <a href='https://arxiv.org/abs/2303.15012'>paper</a> and <a href='https://github.com/sen-mao/3di2i-translation'>code</a>.
+- *2020.12*: &nbsp;🥳🥳 Our paper "Low-rank Constrained Super-Resolution for Mixed-Resolution Multiview Video" accepted by TIP'20. See our <a href='https://ieeexplore.ieee.org/abstract/document/9286862'>paper</a> and <a href='https://drive.google.com/file/d/1spFEH6H1jMWZB2vqhU-PQ8ruhJ-VOHf-/view?usp=sharing'>code</a>.
 
 
 # 📝 Publications 
