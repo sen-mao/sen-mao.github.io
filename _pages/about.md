@@ -50,9 +50,9 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 **Senmao Li**, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang
 
-- Our analysis shows that the [EOT] embeddings contain significant, redundant and duplicated semantic information of the whole input prompt (the whole embeddings)
+- The [EOT] embeddings contain significant, redundant and duplicated semantic information of the whole input prompt.
 - We propose soft-weighted regularization (SWR) to eliminate the negative target information from the [EOT] embeddings.
-- To further suppress the negative target generation, and encourage the positive target content, we propose inference-time text embedding optimization (ITO).
+- We propose inference-time text embedding optimization (ITO).
 
 <div style="display: inline">
         <a href="https://arxiv.org/abs/2402.05375"> [paper]</a>
@@ -74,8 +74,8 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 **Senmao Li**, Taihang Hu, Fahad Khan, Linxuan Li, Shiqi Yang, Yaxing Wang, Ming-Ming Cheng, Jian Yang
 
-- a thorough empirical study of the features of the UNet in the diffusion model showing that encoder features vary minimally (whereas decoder feature vary significantly)
-- an encoder propagation scheme to accelerate the diffusion sampling without requiring any training or fine-tuning technique
+- A thorough empirical study of the features of the UNet in the diffusion model showing that encoder features vary minimally (whereas decoder feature vary significantly)
+- An encoder propagation scheme to accelerate the diffusion sampling without requiring any training or fine-tuning technique
 - Our method can be combined with existing methods (like DDIM, and DPM-solver) to further accelerate diffusion model inference time
 - ~1.8x acceleration for stable diffusion, 50 DDIM steps, ~1.8x acceleration for stable diffusion, 20 Dpm-solver++ steps, and ~1.3x acceleration for DeepFloyd-IF
 
