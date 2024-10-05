@@ -217,6 +217,6 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
-[//]: # (# 💻 Internships)
+# 💻 Internships
 
-[//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
+- *2024.07 - 2024.09*, A research stay, supervised by Dr. [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ) in [Computer Vision Center](https://www.cvc.uab.es/), Autonomous University of Barcelona, Spain.
