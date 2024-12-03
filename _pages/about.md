@@ -34,6 +34,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🥳🥳 Our paper "StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing" accepted by CVMJ'24. See our <a href='https://arxiv.org/pdf/2303.15649'>paper</a> and <a href='https://github.com/sen-mao/StyleDiffusion'>code</a>.
 - *2024.09*: &nbsp;🥳🥳 Our paper "Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference" accepted by NeurIPS'24. See our <a href='https://arxiv.org/pdf/2312.09608'>paper</a> and <a href='https://sen-mao.github.io/FasterDiffusion/'>code</a>.
 - *2024.01*: &nbsp;🥳🥳 Our paper "Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models" accepted by ICLR'24. See our <a href='https://arxiv.org/abs/2402.05375'>paper</a> and <a href='https://github.com/sen-mao/SuppressEOT'>code</a>.
 - *2023.12*: &nbsp;🎉🎉 Our new work, FasterDiffusion: Rethinking the Role of UNet Encoder in Diffusion Models. See our <a href='https://arxiv.org/abs/2312.09608'>paper</a> and <a href='https://github.com/hutaiHang/Faster-Diffusion'>code</a>.
