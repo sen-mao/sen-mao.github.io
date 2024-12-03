@@ -50,7 +50,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 [Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference](https://arxiv.org/abs/2312.09608)
 
-**Senmao Li**, Taihang Hu, Joost van de Weijier, Fahad Khan, Linxuan Li, Shiqi Yang, Yaxing Wang, Ming-Ming Cheng, Jian Yang
+<span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Taihang Hu, Joost van de Weijier, Fahad Khan, Linxuan Li, Shiqi Yang, Yaxing Wang, Ming-Ming Cheng, Jian Yang
 
 - A thorough empirical study of the features of the UNet in the diffusion model showing that encoder features vary minimally (whereas decoder feature vary significantly)
 - An encoder propagation scheme to accelerate the diffusion sampling without requiring any training or fine-tuning technique
@@ -76,7 +76,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 [Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Model](https://arxiv.org/pdf/2402.05375.pdf)
 
-**Senmao Li**, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang
+<span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang
 
 - The [EOT] embeddings contain significant, redundant and duplicated semantic information of the whole input prompt.
 - We propose soft-weighted regularization (SWR) to eliminate the negative target information from the [EOT] embeddings.
@@ -101,7 +101,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 [StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing](https://arxiv.org/abs/2303.15649)
 
-**Senmao Li**, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang
+<span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang
 
 - Only optimizing the input of the value linear network in the cross-attention layers is sufficiently powerful to reconstruct a real image
 - Attention regularization to preserve the object-like attention maps after reconstruction and editing, enabling us to obtain accurate style editing without invoking significant structural changes
