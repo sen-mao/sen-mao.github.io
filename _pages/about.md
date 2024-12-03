@@ -147,7 +147,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
   <li>
     <img src='https://img.shields.io/github/stars/hutaiHang/Faster-Diffusion' alt="sym" height="100%">
-    <a href="https://arxiv.org/abs/2312.09608"> Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference </a>. <span style="color: #FF5733;"><strong>Senmao Li</strong></span>, Taihang Hu, Joost van de Weijier, Fahad Khan, Linxuan Li, Shiqi Yang, Yaxing Wang, Ming-Ming Cheng, Jian Yang. <strong>arXiv</strong>. 
+    <a href="https://arxiv.org/abs/2312.09608"> Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference </a>. <span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Taihang Hu, Joost van de Weijier, Fahad Khan, Linxuan Li, Shiqi Yang, Yaxing Wang, Ming-Ming Cheng, Jian Yang. <strong>arXiv</strong>. 
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2312.09608"> [paper]</a>
         <a href="https://sen-mao.github.io/FasterDiffusion/"> [Project Page]</a>
