@@ -125,7 +125,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 [3D-Aware Multi-Class Image-to-Image Translation with NeRFs](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_3D-Aware_Multi-Class_Image-to-Image_Translation_With_NeRFs_CVPR_2023_paper.pdf)
 
-<span style="color: #FF5733;"><strong>Senmao Li</strong></span>, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jian Yang
+<span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jian Yang
 
 - The first to explore 3D-aware multi-class I2I translation
 - Decouple 3D-aware I2I translation into two steps
