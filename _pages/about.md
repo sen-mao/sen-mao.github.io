@@ -161,7 +161,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
   <li>
     <img src='https://img.shields.io/github/stars/sen-mao/SuppressEOT' alt="sym" height="100%">
-    <a href="https://arxiv.org/abs/2402.05375"> Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models </a>. <strong>Senmao Li</strong>, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang. <strong>ICLR 2024</strong>. 
+    <a href="https://arxiv.org/abs/2402.05375"> Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models </a>. <span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang. <strong>ICLR 2024</strong>. 
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2402.05375"> [paper]</a>
         <a href="https://github.com/sen-mao/SuppressEOT"> [code]</a>
@@ -176,7 +176,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
   <li>
     <img src='https://img.shields.io/github/stars/sen-mao/StyleDiffusion' alt="sym" height="100%">
-    <a href="https://arxiv.org/abs/2312.09608"> StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing </a>. <strong>Senmao Li</strong>, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang. <strong>CVMJ 2024</strong>. 
+    <a href="https://arxiv.org/abs/2312.09608"> StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing </a>. <span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang. <strong>CVMJ 2024</strong>. 
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2303.15649"> [paper]</a>
         <a href="https://github.com/sen-mao/StyleDiffusion"> [code]</a>
@@ -190,7 +190,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
   <li>
     <img src='https://img.shields.io/github/stars/sen-mao/3di2i-translation' alt="sym" height="100%">
-    <a href="https://arxiv.org/abs/2303.15012"> 3D-Aware Multi-Class Image-to-Image Translation with NeRFs </a>. <strong>Senmao Li</strong>, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jian Yang. <strong>CVPR 2023</strong>. 
+    <a href="https://arxiv.org/abs/2303.15012"> 3D-Aware Multi-Class Image-to-Image Translation with NeRFs </a>. <span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Joost van de Weijer, Yaxing Wang, Fahad Shahbaz Khan, Meiqin Liu, Jian Yang. <strong>CVPR 2023</strong>. 
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2303.15012"> [paper]</a>
         <a href="https://github.com/sen-mao/3di2i-translation"> [code]</a>
