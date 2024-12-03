@@ -34,12 +34,12 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 
 # 🔥 News
-- **[2024.09]**: &nbsp;🥳🥳 "StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing" accepted by CVMJ'24. See our <a href='https://arxiv.org/pdf/2303.15649'>paper</a> and <a href='https://github.com/sen-mao/StyleDiffusion'>code</a>.
-- **[2024.09]**: &nbsp;🥳🥳 "Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference" accepted by NeurIPS'24. See our <a href='https://arxiv.org/pdf/2312.09608'>paper</a> and <a href='https://sen-mao.github.io/FasterDiffusion/'>Project Page</a>.
-- **[2024.01]**: &nbsp;🥳🥳 "Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models" accepted by ICLR'24. See our <a href='https://arxiv.org/abs/2402.05375'>paper</a> and <a href='https://github.com/sen-mao/SuppressEOT'>code</a>.
-- **[2023.12]**: &nbsp;🎉🎉 New work, "FasterDiffusion: Rethinking the Role of UNet Encoder in Diffusion Models". See our <a href='https://arxiv.org/abs/2312.09608'>paper</a> and <a href='https://github.com/hutaiHang/Faster-Diffusion'>code</a>.
-- **[2023.02]**: &nbsp;🥳🥳 "3D-Aware Multi-Class Image-to-Image Translation with NeRFs" accepted by CVPR'23. See our <a href='https://arxiv.org/abs/2303.15012'>paper</a> and <a href='https://github.com/sen-mao/3di2i-translation'>code</a>.
-- **[2020.12]**: &nbsp;🥳🥳 "Low-rank Constrained Super-Resolution for Mixed-Resolution Multiview Video" accepted by TIP'20. See our <a href='https://ieeexplore.ieee.org/abstract/document/9286862'>paper</a> and <a href='https://drive.google.com/file/d/1spFEH6H1jMWZB2vqhU-PQ8ruhJ-VOHf-/view?usp=sharing'>code</a>.
+- **[2024.09]** &nbsp;🥳🥳 "StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing" accepted by CVMJ'24. See our <a href='https://arxiv.org/pdf/2303.15649'>paper</a> and <a href='https://github.com/sen-mao/StyleDiffusion'>code</a>.
+- **[2024.09]** &nbsp;🥳🥳 "Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference" accepted by NeurIPS'24. See our <a href='https://arxiv.org/pdf/2312.09608'>paper</a> and <a href='https://sen-mao.github.io/FasterDiffusion/'>Project Page</a>.
+- **[2024.01]** &nbsp;🥳🥳 "Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models" accepted by ICLR'24. See our <a href='https://arxiv.org/abs/2402.05375'>paper</a> and <a href='https://github.com/sen-mao/SuppressEOT'>code</a>.
+- **[2023.12]** &nbsp;🎉🎉 New work, "FasterDiffusion: Rethinking the Role of UNet Encoder in Diffusion Models". See our <a href='https://arxiv.org/abs/2312.09608'>paper</a> and <a href='https://github.com/hutaiHang/Faster-Diffusion'>code</a>.
+- **[2023.02]** &nbsp;🥳🥳 "3D-Aware Multi-Class Image-to-Image Translation with NeRFs" accepted by CVPR'23. See our <a href='https://arxiv.org/abs/2303.15012'>paper</a> and <a href='https://github.com/sen-mao/3di2i-translation'>code</a>.
+- **[2020.12]** &nbsp;🥳🥳 "Low-rank Constrained Super-Resolution for Mixed-Resolution Multiview Video" accepted by TIP'20. See our <a href='https://ieeexplore.ieee.org/abstract/document/9286862'>paper</a> and <a href='https://drive.google.com/file/d/1spFEH6H1jMWZB2vqhU-PQ8ruhJ-VOHf-/view?usp=sharing'>code</a>.
 
 
 # 📝 Publications 
