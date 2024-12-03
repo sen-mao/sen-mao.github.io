@@ -215,7 +215,6 @@ I’m currently conducting some research in image editing and efficient inferenc
     </div>
   </li>
 
-[//]: # (3DI2I)
 
   <li>
     <img src='https://img.shields.io/github/stars/sen-mao/3di2i-translation' alt="sym" height="100%">
