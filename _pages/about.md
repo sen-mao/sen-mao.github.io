@@ -34,7 +34,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 
 # 🔥 News
-- <span style="color: black; font-weight: bold;">[2024.09]</span> &nbsp;🥳🥳 "StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing" accepted by <span style="color: black;">CVMJ</span>2024. See our <a href='https://arxiv.org/pdf/2303.15649'>paper</a> and <a href='https://github.com/sen-mao/StyleDiffusion'>code</a>.
+- <span style="color: black; font-weight: bold;">[2024.09]</span> &nbsp;🥳🥳 <span style="color: black; font-weight: bold;">StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing</span> accepted by <span style="color: black;">CVMJ</span>2024. See our <a href='https://arxiv.org/pdf/2303.15649'>paper</a> and <a href='https://github.com/sen-mao/StyleDiffusion'>code</a>.
 - <span style="color: black; font-weight: bold;">[2024.09]</span> &nbsp;🥳🥳 "Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference" accepted by NeurIPS'24. See our <a href='https://arxiv.org/pdf/2312.09608'>paper</a> and <a href='https://sen-mao.github.io/FasterDiffusion/'>Project Page</a>.
 - <span style="color: black; font-weight: bold;">[2024.01]</span> &nbsp;🥳🥳 "Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models" accepted by ICLR'24. See our <a href='https://arxiv.org/abs/2402.05375'>paper</a> and <a href='https://github.com/sen-mao/SuppressEOT'>code</a>.
 - <span style="color: black; font-weight: bold;">[2023.12]</span> &nbsp;🎉🎉 New work "FasterDiffusion: Rethinking the Role of UNet Encoder in Diffusion Models". See our <a href='https://arxiv.org/abs/2312.09608'>paper</a> and <a href='https://github.com/hutaiHang/Faster-Diffusion'>code</a>.
