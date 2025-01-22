@@ -132,7 +132,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 - Decouple 3D-aware I2I translation into two steps
 
 <div style="display: inline">
-        <a href="https://arxiv.org/abs/2303.15012"> [paper]</a>
+        <a href="https://arxiv.org/abs/2303.15012"> [paper]</a>|<a href="https://drive.google.com/file/d/1QzaTAieNEluN6FdSHTZ09Q7SdM75yWuF/view?usp=sharing">[中译版]</a>
         <a href="https://github.com/sen-mao/3di2i-translation"> [code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
