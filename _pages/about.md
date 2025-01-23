@@ -34,6 +34,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 
 # 🔥 News
+- <span style="color: black; font-weight: bold;">[2025.01]</span> &nbsp;🥳🥳 Two paper (including one co-authored paper) accepted by <span style="color: red; font-weight: bold;">ICLR2025</span>.
 - <span style="color: black; font-weight: bold;">[2024.09]</span> &nbsp;🥳🥳 <span style="color: black; font-weight: bold;">StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing</span> accepted by <span style="color: red; font-weight: bold;">CVMJ2024</span>. See <a href='https://arxiv.org/pdf/2303.15649'>paper</a> and <a href='https://github.com/sen-mao/StyleDiffusion'>code</a>.
 - <span style="color: black; font-weight: bold;">[2024.09]</span> &nbsp;🥳🥳 <span style="color: black; font-weight: bold;">Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference</span> accepted by <span style="color: red; font-weight: bold;">NeurIPS2024</span>. See <a href='https://arxiv.org/pdf/2312.09608'>paper</a> and <a href='https://sen-mao.github.io/FasterDiffusion/'>Project Page</a>.
 - <span style="color: black; font-weight: bold;">[2024.01]</span> &nbsp;🥳🥳 <span style="color: black; font-weight: bold;">Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models</span> accepted by <span style="color: red; font-weight: bold;">ICLR2024</span>. See <a href='https://arxiv.org/abs/2402.05375'>paper</a> and <a href='https://github.com/sen-mao/SuppressEOT'>code</a>.
