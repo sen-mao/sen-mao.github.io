@@ -45,13 +45,45 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 # 📝 Publications 
 
+[//]: # (InterLCM)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/InterLCM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration](https://arxiv.org/abs/2502.02215)
+
+<span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Kai Wang*, Joost van de Weijier, Fahad Shahbaz Khan, Chun-Le Guo, Shiqi Yang, Yaxing Wang, Jian Yang, Ming-Ming Cheng
+
+- By considering the low-quality image as the intermediate state of LCM models, we can effectively maintain better semantic consistency in face restorations.
+- Using LCM mapping each state to the original image level point, our method InterLCM has additional advantages: few-step sampling with much faster speed and integrating our framework with commonly used perceptual loss and adversarial loss in face restoration. 
+
+<div style="display: inline">
+        <a href="https://arxiv.org/abs/2502.02215"> [paper]</a>|<a href="https://drive.google.com/file/d/1NEgrFM3kxLoPs2dWubAbYuqqFL4EDoOx/view?usp=sharing">[中译版]</a>
+        <a href="https://github.com/sen-mao/InterLCM"> [code]</a>
+        <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
+        <div class="abstract"  style="overflow: hidden; display: none;">  
+            <p> Diffusion priors have been used for blind face restoration (BFR) by fine-tuning diffusion models (DMs) on restoration datasets to recover low-quality images. However, the naive application of DMs presents several key limitations. 
+                (i) The diffusion prior has inferior semantic consistency (e.g., ID, structure and color.),  increasing the difficulty of optimizing the BFR model;
+                (ii) reliance on hundreds of denoising iterations, preventing the effective cooperation with perceptual losses, which is crucial for faithful restoration.
+                Observing that the latent consistency model (LCM) learns consistency noise-to-data mappings on the ODE-trajectory and therefore shows more semantic consistency in the subject identity, structural information and color preservation, 
+                we propose InterLCM to leverage the LCM for its superior semantic consistency and efficiency to counter the above issues. 
+                Treating low-quality images as the intermediate state of LCM, InterLCM achieves a balance between fidelity and quality by starting from earlier LCM steps. 
+                LCM also allows the integration of perceptual loss during training, leading to improved restoration quality, particularly in real-world scenarios.
+                To mitigate structural and semantic uncertainties, InterLCM incorporates a Visual Module to extract visual features and a Spatial Encoder to capture spatial details, enhancing the fidelity of restored images.
+                Extensive experiments demonstrate that InterLCM outperforms existing approaches in both synthetic and real-world datasets while also achieving faster inference speed. 
+            </p>
+        </div>
+</div>
+
+</div>
+</div>
+
 [//]: # (FasterDiffusion)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/FasterDiffusion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference](https://arxiv.org/abs/2312.09608)
 
-<span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Taihang Hu, Joost van de Weijier, Fahad Khan, Linxuan Li, Shiqi Yang, Yaxing Wang, Ming-Ming Cheng, Jian Yang
+<span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Taihang Hu, Joost van de Weijier, Fahad Shahbaz Khan, Linxuan Li, Shiqi Yang, Yaxing Wang, Ming-Ming Cheng, Jian Yang
 
 - A thorough empirical study of the features of the UNet in the diffusion model showing that encoder features vary minimally (whereas decoder feature vary significantly)
 - An encoder propagation scheme to accelerate the diffusion sampling without requiring any training or fine-tuning technique
