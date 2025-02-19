@@ -84,7 +84,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 - We propose inference-time text embedding optimization (ITO).
 
 <div style="display: inline">
-        <a href="https://arxiv.org/abs/2402.05375"> [paper]</a>
+        <a href="https://arxiv.org/abs/2402.05375"> [paper]</a>|<a href="https://drive.google.com/file/d/1CXDAO7WzmZloF2TTHQibRPIKYjKliMoc/view?usp=sharing">[中译版]</a>
         <a href="https://github.com/sen-mao/SuppressEOT"> [code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
