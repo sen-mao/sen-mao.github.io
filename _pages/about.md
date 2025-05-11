@@ -58,6 +58,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 <div style="display: inline">
         <a href="https://drive.google.com/file/d/1CenAPN9qPvBhDCc0Za6Fx6yXGXZCMpst/view?usp=sharing"> [中译版]</a>
+        <a href="https://drive.google.com/file/d/1zE3oCxM-5EzPRfvkW29We0AKGNowkrgp/view?usp=sharing"> [slide]</a>
         <a href="https://github.com/sen-mao/Loopfree"> [code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
