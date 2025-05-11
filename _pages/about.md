@@ -335,7 +335,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 📄 Academic Service
-- *Conference Reviewer:* CVPR'25, ICLR[2025](https://iclr.cc/Conferences/2025/ProgramCommittee#all-reviewer), [NeurIPS2024](https://neurips.cc/Conferences/2024/ProgramCommittee#all-reviewers)
+- *Conference Reviewer:* CVPR'25, [ICLR2025](https://iclr.cc/Conferences/2025/ProgramCommittee#all-reviewer), [NeurIPS2024](https://neurips.cc/Conferences/2024/ProgramCommittee#all-reviewers)
 
 
 
