@@ -338,6 +338,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 - *Conference Reviewer:* CVPR'25, [ICLR2025](https://iclr.cc/Conferences/2025/ProgramCommittee#all-reviewer), [NeurIPS202424](https://neurips.cc/Conferences/2024/ProgramCommittee#all-reviewers)
 
 
+
 # 💻 Internships
 
 - *2024.07 - 2024.09*, A research stay, supervised by Dr. [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ) in [Computer Vision Center](https://www.cvc.uab.es/), Autonomous University of Barcelona, Spain.
