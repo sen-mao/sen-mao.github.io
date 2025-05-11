@@ -46,6 +46,41 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 # 📝 Publications 
 
+[//]: # (Loopfree)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/Loopfree.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[One-Way Ticket : Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Model](https://github.com/sen-mao/Loopfree)
+
+<span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Lei Wang, Kai Wang, Tao Liu, Jiehang Xie, Joost van de Weijier, Fahad Shahbaz Khan, Shiqi Yang, Yaxing Wang*, Jian Yang
+
+- Above a certain threshold of steps, such as 15 steps in SD2.1, the model maintains image generation quality (Fig.a-b) while the features show high similarity (Fig.c).
+- Below this threshold, feature similarity deteriorates along with worse generation quality, accompanied by a degradation in image generation quality as sampling steps reduce.
+- We introduce the first Time-independent Unified Encoder (TiUE) architecture, which is a loop-free distillation approach and eliminates the need for iterative noisy latent processing while maintaining high sampling fidelity with a time cost comparable to previous one-step methods.
+
+<div style="display: inline">
+        <a href="https://drive.google.com/file/d/1CenAPN9qPvBhDCc0Za6Fx6yXGXZCMpst/view?usp=sharing"> [中译版]</a>
+        <a href="https://github.com/sen-mao/Loopfree"> [code]</a>
+        <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
+        <div class="abstract"  style="overflow: hidden; display: none;">  
+            <p> Text-to-Image (T2I) diffusion models have made remarkable advancements in generative modeling; however, 
+                they face a trade-off between inference speed and image quality, posing challenges for efficient deployment.
+                Existing distilled T2I models can generate high-fidelity images with fewer sampling steps, but often struggle with diversity and quality, especially in one-step models. 
+                From our analysis, we observe redundant computations in the UNet encoders. 
+                Our findings suggest that, for T2I diffusion models, decoders are more adept at capturing richer and more explicit semantic information, 
+                while encoders can be effectively shared across decoders from diverse time steps.
+                Based on these observations, we introduce the first Time-independent Unified Encoder (TiUE) for the student model UNet architecture,
+                which is a loop-free image generation approach for distilling T2I diffusion models. Using a one-pass scheme,
+                TiUE shares encoder features across multiple decoder time steps, enabling parallel sampling and significantly reducing inference time complexity.
+                In addition, we incorporate a KL divergence term to regularize noise prediction, which enhances the perceptual realism and diversity of the generated images.
+                Experimental results demonstrate that TiUE outperforms state-of-the-art methods, including LCM, SD-Turbo, and SwiftBrushv2, producing more diverse and realistic results while maintaining the computational efficiency.
+            </p>
+        </div>
+</div>
+
+</div>
+</div>
+
 [//]: # (InterLCM)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/InterLCM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
