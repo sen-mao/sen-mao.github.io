@@ -121,7 +121,6 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 - A thorough empirical study of the features of the UNet in the diffusion model showing that encoder features vary minimally (whereas decoder feature vary significantly)
 - An encoder propagation scheme to accelerate the diffusion sampling without requiring any training or fine-tuning technique
-- Our method can be combined with existing methods (like DDIM, and DPM-solver) to further accelerate diffusion model inference time
 - ~1.8x acceleration for stable diffusion, 50 DDIM steps, ~1.8x acceleration for stable diffusion, 20 Dpm-solver++ steps, and ~1.3x acceleration for DeepFloyd-IF
 
 <div style="display: inline">
