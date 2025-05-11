@@ -54,8 +54,6 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 <span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Lei Wang, Kai Wang, Tao Liu, Jiehang Xie, Joost van de Weijier, Fahad Shahbaz Khan, Shiqi Yang, Yaxing Wang*, Jian Yang
 
-- Above a certain threshold of steps, such as 15 steps in SD2.1, the model maintains image generation quality (Fig.a-b) while the features show high similarity (Fig.c).
-- Below this threshold, feature similarity deteriorates along with worse generation quality, accompanied by a degradation in image generation quality as sampling steps reduce.
 - We introduce the first Time-independent Unified Encoder (TiUE) architecture, which is a loop-free distillation approach and eliminates the need for iterative noisy latent processing while maintaining high sampling fidelity with a time cost comparable to previous one-step methods.
 
 <div style="display: inline">
