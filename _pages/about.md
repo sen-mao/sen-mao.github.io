@@ -57,9 +57,9 @@ I’m currently conducting some research in image editing and efficient inferenc
 - We introduce the first Time-independent Unified Encoder (TiUE) architecture, which is a loop-free distillation approach and eliminates the need for iterative noisy latent processing while maintaining high sampling fidelity with a time cost comparable to previous one-step methods.
 
 <div style="display: inline">
-        <a href="https://drive.google.com/file/d/1CenAPN9qPvBhDCc0Za6Fx6yXGXZCMpst/view?usp=sharing"> [中译版]</a>
-        <a href="https://drive.google.com/file/d/1zE3oCxM-5EzPRfvkW29We0AKGNowkrgp/view?usp=sharing"> [slide]</a>
-        <a href="https://github.com/sen-mao/Loopfree"> [code]</a>
+        <a href="https://drive.google.com/file/d/1CenAPN9qPvBhDCc0Za6Fx6yXGXZCMpst/view?usp=sharing">[中译版]</a>
+        <a href="https://drive.google.com/file/d/1zE3oCxM-5EzPRfvkW29We0AKGNowkrgp/view?usp=sharing">[slide]</a>
+        <a href="https://github.com/sen-mao/Loopfree">[code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
             <p> Text-to-Image (T2I) diffusion models have made remarkable advancements in generative modeling; however, 
@@ -126,7 +126,8 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 <div style="display: inline">
         <a href="https://arxiv.org/abs/2312.09608"> [paper]</a>|<a href="https://drive.google.com/file/d/1NEgrFM3kxLoPs2dWubAbYuqqFL4EDoOx/view?usp=sharing">[中译版]</a>
-        <a href="https://sen-mao.github.io/FasterDiffusion/"> [code]</a>
+        <a href="https://drive.google.com/file/d/1sQiDenlGU7TElFTn64Zthtf-dwAphM4T/view?usp=sharing">[slide]</a>
+        <a href="https://sen-mao.github.io/FasterDiffusion/">[code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
             <p> One of the key components within diffusion models is the UNet for noise prediction. While several works have explored basic properties of the UNet decoder, its encoder largely remains unexplored. In this work, we conduct the first comprehensive study of the UNet encoder. We empirically analyze the encoder features and provide insights to important questions regarding their changes at the inference process. In particular, we find that encoder features change gently, whereas the decoder features exhibit substantial variations across different time-steps. This finding inspired us to omit the encoder at certain adjacent time-steps and reuse cyclically the encoder features in the previous time-steps for the decoder. Further based on this observation, we introduce a simple yet effective encoder propagation scheme to accelerate the diffusion sampling for a diverse set of tasks. By benefiting from our propagation scheme, we are able to perform in parallel the decoder at certain adjacent time-steps. Additionally, we introduce a prior noise injection method to improve the texture details in the generated image. Besides the standard text-to-image task, we also validate our approach on other tasks: text-to-video, personalized generation and reference-guided generation. Without utilizing any knowledge distillation technique, our approach accelerates both the Stable Diffusion (SD) and the DeepFloyd-IF models sampling by 41% and 24% respectively, while maintaining high-quality generation performance. </p>
