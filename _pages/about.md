@@ -107,6 +107,7 @@ I’m currently conducting some research in image editing and efficient inferenc
                 Extensive experiments demonstrate that InterLCM outperforms existing approaches in both synthetic and real-world datasets while also achieving faster inference speed. 
             </p>
         </div>
+        <a href="https://2lq8im394062.vicp.fun/">[demo]</a>
 </div>
 
 </div>
