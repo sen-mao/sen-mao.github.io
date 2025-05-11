@@ -88,7 +88,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 <span style="color: #0000FF;"><strong>Senmao Li</strong></span>, Kai Wang*, Joost van de Weijier, Fahad Shahbaz Khan, Chun-Le Guo, Shiqi Yang, Yaxing Wang, Jian Yang, Ming-Ming Cheng
 
 - By considering the low-quality image as the intermediate state of LCM models, we can effectively maintain better semantic consistency in face restorations.
-- Using LCM mapping each state to the original image level point, our method InterLCM has additional advantages: few-step sampling with much faster speed and integrating our framework with commonly used perceptual loss and adversarial loss in face restoration. 
+- Our method InterLCM has additional advantages: few-step sampling with much faster speed and integrating our framework with commonly used perceptual loss and adversarial loss in face restoration. 
 
 <div style="display: inline">
         <a href="https://arxiv.org/abs/2502.02215"> [paper]</a>
