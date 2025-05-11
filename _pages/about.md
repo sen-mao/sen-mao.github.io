@@ -91,7 +91,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 - Our method InterLCM has additional advantages: few-step sampling with much faster speed and integrating our framework with commonly used perceptual loss and adversarial loss in face restoration. 
 
 <div style="display: inline">
-        <a href="https://arxiv.org/abs/2502.02215"> [paper]</a>
+        <a href="https://arxiv.org/abs/2502.02215"> [paper]|<a href="https://drive.google.com/file/d/13PZTZqg-TxB-p45koxdfhZiPq_TolrYL/view?usp=sharing">[中译版]</a>
         <a href="https://github.com/sen-mao/InterLCM"> [code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
