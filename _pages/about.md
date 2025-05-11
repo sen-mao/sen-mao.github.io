@@ -201,7 +201,8 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 <div style="display: inline">
         <a href="https://arxiv.org/abs/2303.15012"> [paper]</a>|<a href="https://drive.google.com/file/d/1QzaTAieNEluN6FdSHTZ09Q7SdM75yWuF/view?usp=sharing">[中译版]</a>
-        <a href="https://github.com/sen-mao/3di2i-translation"> [code]</a>
+        <a href="https://drive.google.com/file/d/15vTL1Kvr0oa1QzNIAjEuPw5c1vioCeED/view?usp=sharing">[slide]</a>
+        <a href="https://github.com/sen-mao/3di2i-translation">[code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
             <p> Recent advances in 3D-aware generative models (3D-aware GANs) combined with Neural Radiance Fields (NeRF) have achieved impressive results for novel view synthesis. However no prior works investigate 3D-aware GANs for 3D consistent multi-class image-to-image (3D-aware I2I) translation. Naively using 2D-I2I translation methods suffers from unrealistic shape/identity change. To perform 3D-aware multi-class I2I translation, we decouple this learning process into a multi-class 3D-aware GAN step and a 3D-aware I2I translation step. In the first step, we propose two novel techniques: a new conditional architecture and a effective training strategy. In the second step, based on the well-trained multi-class 3D-aware GAN architecture that preserves view-consistency, we construct a 3D-aware I2I translation system. To further reduce the view-consistency problems, we propose several new techniques, including a U-net-like adaptor network design, a hierarchical representation constrain and a relative regularization loss. In extensive experiments on two datasets, quantitative and qualitative results demonstrate that we successfully perform 3D-aware I2I translation with multi-view consistency.</p>
