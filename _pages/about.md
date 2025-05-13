@@ -126,7 +126,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 - An encoder propagation scheme to accelerate the diffusion sampling without requiring any training or fine-tuning technique
 - ~1.8x acceleration for stable diffusion, 50 DDIM steps, ~1.8x acceleration for stable diffusion, 20 Dpm-solver++ steps, and ~1.3x acceleration for DeepFloyd-IF
 
-<a style="display: inline">
+<div style="display: inline">
         <a href="https://arxiv.org/abs/2312.09608"> [paper]</a>|<a href="https://drive.google.com/file/d/1NEgrFM3kxLoPs2dWubAbYuqqFL4EDoOx/view?usp=sharing">[中译版]</a>
         <a href="https://sen-mao.github.io/FasterDiffusion/">[code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
