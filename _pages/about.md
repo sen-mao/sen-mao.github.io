@@ -58,7 +58,6 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 <div style="display: inline">
         <a href="https://drive.google.com/file/d/1CenAPN9qPvBhDCc0Za6Fx6yXGXZCMpst/view?usp=sharing">[中译版]</a>
-        <a href="https://drive.google.com/file/d/1zE3oCxM-5EzPRfvkW29We0AKGNowkrgp/view?usp=sharing">[slide]</a>
         <a href="https://github.com/sen-mao/Loopfree">[code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
@@ -75,6 +74,7 @@ I’m currently conducting some research in image editing and efficient inferenc
                 Experimental results demonstrate that TiUE outperforms state-of-the-art methods, including LCM, SD-Turbo, and SwiftBrushv2, producing more diverse and realistic results while maintaining the computational efficiency.
             </p>
         </div>
+        <a href="https://drive.google.com/file/d/1zE3oCxM-5EzPRfvkW29We0AKGNowkrgp/view?usp=sharing">[slide]</a>
 </div>
 
 </div>
@@ -107,6 +107,7 @@ I’m currently conducting some research in image editing and efficient inferenc
                 Extensive experiments demonstrate that InterLCM outperforms existing approaches in both synthetic and real-world datasets while also achieving faster inference speed. 
             </p>
         </div>
+        <a href="https://drive.google.com/file/d/1F3xxa1TyE7JRUbPnU-TRzQAdSOQPzsk7/view?usp=sharing">[poster]</a>
         <a href="https://2lq8im394062.vicp.fun/">[demo]</a>
 </div>
 
