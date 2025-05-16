@@ -75,6 +75,7 @@ I’m currently conducting some research in image editing and efficient inferenc
             </p>
         </div>
         <a href="https://drive.google.com/file/d/1zE3oCxM-5EzPRfvkW29We0AKGNowkrgp/view?usp=sharing">[slide]</a>
+        <a href="https://drive.google.com/file/d/1sAtxkVNMATwWddnXG-kSwJtglKIvJkyN/view?usp=sharing">[poster]</a>
 </div>
 
 </div>
