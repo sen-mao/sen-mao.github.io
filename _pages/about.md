@@ -57,7 +57,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 - We introduce the first Time-independent Unified Encoder (TiUE) architecture, which is a loop-free distillation approach and eliminates the need for iterative noisy latent processing while maintaining high sampling fidelity with a time cost comparable to previous one-step methods.
 
 <div style="display: inline">
-        <a href="https://drive.google.com/file/d/1CenAPN9qPvBhDCc0Za6Fx6yXGXZCMpst/view?usp=sharing">[中译版]</a>
+        <a href="https://arxiv.org/abs/2505.21960"> [paper]</a>|<a href="https://drive.google.com/file/d/1CenAPN9qPvBhDCc0Za6Fx6yXGXZCMpst/view?usp=sharing">[中译版]</a>
         <a href="https://github.com/sen-mao/Loopfree">[code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
