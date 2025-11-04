@@ -34,6 +34,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 <span style="color: red; font-weight: bold;">I am currently on the job market and looking for full-time positions and postdoctoral positions. Please contact me via email if you know of any opportunities.</span>
 
+---
 
 # 🔥 News
 - <span style="color: black; font-weight: bold;">[2025.09]</span> &nbsp;🥳🥳 Two papers (<a href='https://arxiv.org/pdf/2503.14275'>SADis</a> and <a href='https://arxiv.org/pdf/2506.20977'>Cradle2Cane</a>) accepted by <span style="color: red; font-weight: bold;">NeurIPS2025</span>. (<a href='https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer'>NeurIPS2025 Top Reviewer</a>)
