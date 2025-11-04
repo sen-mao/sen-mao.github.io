@@ -30,7 +30,8 @@ I’m currently conducting some research in image editing and efficient inferenc
 🚀 The acceleration of inferecne by training-free or data-free distillation.
 
 
-# 
+---
+
 <span style="color: red; font-weight: bold;">I am currently on the job market and looking for full-time and postdoctoral positions. Please contact me via email if you know of any opportunities.</span>
 
 
