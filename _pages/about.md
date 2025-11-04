@@ -30,7 +30,8 @@ I’m currently conducting some research in image editing and efficient inferenc
 🚀 The acceleration of inferecne by training-free or data-free distillation.
 
 
-
+# 
+<span style="color: red; font-weight: bold;">NeurIPS2025</span>
 
 
 # 🔥 News
