@@ -349,7 +349,7 @@ I’m currently conducting some research in image editing and efficient inferenc
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 📄 Academic Service
-- *Conference Reviewer:* [CVPR2025](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-reviewers-with-1-or-more-review), [ICLR2025](https://iclr.cc/Conferences/2025/ProgramCommittee#all-reviewer), [NeurIPS2024](https://neurips.cc/Conferences/2024/ProgramCommittee#all-reviewers), [ICLR2025](https://iclr.cc/Conferences/2025/ProgramCommittee#all-reviewer); [CVPR2025](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-reviewers-with-1-or-more-review); [ICML2025](https://icml.cc/Conferences/2025/ProgramCommittee); [ICCV2025](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee); [NeurIPS2025 (Top Reviewer)](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer);
+- *Conference Reviewer:* [CVPR2025](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-reviewers-with-1-or-more-review), [ICLR2025](https://iclr.cc/Conferences/2025/ProgramCommittee#all-reviewer), [NeurIPS2024](https://neurips.cc/Conferences/2024/ProgramCommittee#all-reviewers), [ICLR2025](https://iclr.cc/Conferences/2025/ProgramCommittee#all-reviewer), [CVPR2025](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-reviewers-with-1-or-more-review), [ICML2025](https://icml.cc/Conferences/2025/ProgramCommittee), [ICCV2025](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee), [NeurIPS2025 (Top Reviewer)](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer)
 
 
 
