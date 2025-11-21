@@ -355,4 +355,6 @@ I’m currently conducting some research in image editing and efficient inferenc
 
 # 💻 Internships
 
-- *2024.07 - 2024.09*, A research stay, supervised by Dr. [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ) in [Computer Vision Center](https://www.cvc.uab.es/), Autonomous University of Barcelona, Spain.
+- *2024.07 - 2024.09*, A research stay, supervised by Dr. [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ) and Dr. [Kai Wang](https://scholar.google.com/citations?user=j14vd0wAAAAJ) in [Computer Vision Center](https://www.cvc.uab.es/), Autonomous University of Barcelona, Spain.
+
+- *2025.02 - 2025.11*, A research stay, supervised by Dr. [Fahad Shahbaz Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ) and Dr. [Salman Khan](https://scholar.google.com/citations?user=M59O9lkAAAAJ) in Computer Vision Department, MBZUAI, Abu Dhabi, United Arab Emirates.
